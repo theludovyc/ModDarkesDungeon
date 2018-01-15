@@ -1,0 +1,31 @@
+//Highwayman
+//-------------------------
+
+//Pistol Shot
+effect: .name "Highwayman Pistol Dmg Marked 0" .target "performer" .chance 100% .curio_result_type "positive" .keyStatus "tagged"	.combat_stat_buff 1 .crit_chance_add 5% .damage_low_multiply 12% .damage_high_multiply 12% .on_hit true .on_miss false
+effect: .name "Highwayman Pistol Dmg Marked 1" .target "performer" .chance 100% .curio_result_type "positive" .keyStatus "tagged"	.combat_stat_buff 1 .crit_chance_add 6% .damage_low_multiply 14% .damage_high_multiply 14% .on_hit true .on_miss false
+effect: .name "Highwayman Pistol Dmg Marked 2" .target "performer" .chance 100% .curio_result_type "positive" .keyStatus "tagged"	.combat_stat_buff 1 .crit_chance_add 7% .damage_low_multiply 16% .damage_high_multiply 16% .on_hit true .on_miss false
+effect: .name "Highwayman Pistol Dmg Marked 3" .target "performer" .chance 100% .curio_result_type "positive" .keyStatus "tagged"	.combat_stat_buff 1 .crit_chance_add 8% .damage_low_multiply 18% .damage_high_multiply 18% .on_hit true .on_miss false
+effect: .name "Highwayman Pistol Dmg Marked 4" .target "performer" .chance 100% .curio_result_type "positive" .keyStatus "tagged"	.combat_stat_buff 1 .crit_chance_add 9% .damage_low_multiply 20% .damage_high_multiply 20% .on_hit true .on_miss false
+
+//Vestal
+//-------------------------
+effect: .name "Vestal HealStress 1" .target "target" .curio_result_type "positive" .chance 100% .healstress 6		.on_hit true .on_miss false .queue true
+effect: .name "Vestal HealStress 2" .target "target" .curio_result_type "positive" .chance 100% .healstress 7		.on_hit true .on_miss false .queue true
+effect: .name "Vestal HealStress 3" .target "target" .curio_result_type "positive" .chance 100% .healstress 8		.on_hit true .on_miss false .queue true
+effect: .name "Vestal HealStress 4" .target "target" .curio_result_type "positive" .chance 100% .healstress 9		.on_hit true .on_miss false .queue true
+effect: .name "Vestal HealStress 5" .target "target" .curio_result_type "positive" .chance 100% .healstress 10	.on_hit true .on_miss false .queue true
+
+effect: .name "Vestal Weak HealStress 1" .target "target" .curio_result_type "positive" .chance 100% .healstress 4		.on_hit true .on_miss false .queue true
+effect: .name "Vestal Weak HealStress 2" .target "target" .curio_result_type "positive" .chance 100% .healstress 5		.on_hit true .on_miss false .queue true
+effect: .name "Vestal Weak HealStress 3" .target "target" .curio_result_type "positive" .chance 100% .healstress 6		.on_hit true .on_miss false .queue true
+effect: .name "Vestal Weak HealStress 4" .target "target" .curio_result_type "positive" .chance 100% .healstress 7		.on_hit true .on_miss false .queue true
+effect: .name "Vestal Weak HealStress 5" .target "target" .curio_result_type "positive" .chance 100% .healstress 8	.on_hit true .on_miss false .queue true
+
+//Leper
+//-------------------------
+effect: .name "Lys Leper Intimidate 1" .target "target" .curio_result_type "negative" .chance 100%  .combat_stat_buff 1 .protection_rating_add -20%	.on_hit true .on_miss false
+effect: .name "Lys Leper Intimidate 2" .target "target" .curio_result_type "negative" .chance 110%  .combat_stat_buff 1 .protection_rating_add -21%	.on_hit true .on_miss false
+effect: .name "Lys Leper Intimidate 3" .target "target" .curio_result_type "negative" .chance 120%  .combat_stat_buff 1 .protection_rating_add -23%	.on_hit true .on_miss false
+effect: .name "Lys Leper Intimidate 4" .target "target" .curio_result_type "negative" .chance 130%  .combat_stat_buff 1 .protection_rating_add -24%	.on_hit true .on_miss false
+effect: .name "Lys Leper Intimidate 5" .target "target" .curio_result_type "negative" .chance 140%  .combat_stat_buff 1 .protection_rating_add -25%	.on_hit true .on_miss false

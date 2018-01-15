@@ -1,0 +1,29 @@
+Bonjour tout le monde,
+J'ai crée un nouveau mod LYS pour refaire des parties du gameplay.
+Basiquement, les attaques de mélée peuvent être lancée des positions 12 et cibler 12.
+Les attaques à distances peuvent être lancée de n'importe où et ciblé n'importe qui.
+Bien sûr il y a des exceptions, par exemple pour sauter vers l'avant : l'attaque peut être lancé depuis 34 et ciblé 12.
+De plus, la marque de ciblage a été davantage développé. Tout les enemies voudront ciblé en priorité ceux portant la marque. Pensez y à deux fois mainteant avant de vous l'apposer. Et plus nombreux sont les compétences à pouvoir marquer.
+Les soins, diminue le stress des soignés aussi.
+Les combats sont plus dynamiques : déplacer, mélanger et étourdir ses adversaires est une stratégie de base. Les compétences ont été revues à cet effet et l'ia aussi.
+
+Le jeu n'est pas pour autant plus facile, vous pleurerez, et je pense que mes lumières n'ont fait que découvrir d'autres ombres.
+
+Je vous enjoins à recommencer une partie pour profiter plainement d'une nouvelle aventure !
+
+Modded entity for now:
+Heroes:
+Bounty Hunter
+Crusader
+Highwaymann
+Leper
+Plague Doctor
+Vestal
+Houndmaster
+
+Monsters:
+Brigands
+Cultists
+Maggot
+Skeletons
+Spiders

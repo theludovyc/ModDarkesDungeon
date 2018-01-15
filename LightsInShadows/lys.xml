@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<PreviewIconFile>preview_icon.png</PreviewIconFile>
+	<ItemDescriptionShort/>
+	<ModDataPath>C:/Unity3d/ModDarksetDungeon/LightsInShadows/</ModDataPath>
+	<Title>Lights Yn Shadows 0.2</Title>
+	<Language>english</Language>
+	<UpdateDetails/>
+	<Visibility>private</Visibility>
+	<UploadMode>direct_upload</UploadMode>
+	<VersionMajor>0</VersionMajor>
+	<VersionMinor>0</VersionMinor>
+	<TargetBuild>0</TargetBuild>
+	<Tags>
+		<Tags>Remake</Tags>
+		<Tags>Gameplay</Tags>
+	</Tags>
+	<ItemDescription>Hello @everyone,
+I make a new mod LYS to remake the gameplay (not entirely).
+Basically, melee attack can be launched from positions 12 and can target 12.
+And ranged can be launched everywhere and target anyone.
+Of course there are some exceptions, exemple to moving from behind : attack can be lauched from 34 and target 12.
+Another thing is target mark, be reinforced. Every enemies with ranged attack, not melee, want to shot the target first, sometimes they don&apos;t. Think twice before target yourself. And more skills can put target mark.
+Heal can heal stress too.
+Combats are more dynamic : move, shuffle, stun your opponent it&apos;s a basic strategy, remaked heroes skills and ennemies ai for that.
+The game won&apos;t be easy, you&apos;ll cry, and I think my lights just discover others shadows.
+
+I recommend you to start a new game and enjoy your new adventure !
+
+Modded entity for now:
+Heroes:
+Bounty Hunter
+Crusader
+Highwaymann
+Leper
+Plague Doctor
+Vestal
+Houndmaster
+
+Monsters:
+Brigands
+Cultists
+Maggot
+Skeletons
+Spiders
+	</ItemDescription>
+	<PublishedFileId>1265900557</PublishedFileId>
+</project>
+

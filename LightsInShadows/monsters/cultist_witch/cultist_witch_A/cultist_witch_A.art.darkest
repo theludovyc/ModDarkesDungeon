@@ -1,0 +1,6 @@
+commonfx: .deathfx death_medium
+skill: .id "cultist_pull_0" .anim "attack_ranged" .fx "move" .targchestfx "pull_target"
+skill: .id "cultist_pull_1" .anim "attack_ranged" .fx "move" .targchestfx "pull_target"
+skill: .id "cultist_push_0" .anim "attack_ranged" .fx "move" .targchestfx "push_target"
+skill: .id "cultist_push_1" .anim "attack_ranged" .fx "move" .targchestfx "push_target"
+skill: .id "cultist_incantation" .anim "attack_ranged" .fx "incantation" .targchestfx "stress_cloud"

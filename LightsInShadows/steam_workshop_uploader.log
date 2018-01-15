@@ -1,0 +1,112 @@
+
+-------------------------------------------------------------------------------
+Parsing project file - C:\Unity3d\ModDarksetDungeon\LightsInShadows\lys.xml
+Mod Data Directory = C:/Unity3d/ModDarksetDungeon/LightsInShadows/
+
+-------------------------------------------------------------------------------
+Processing Map Files files...
+
+-------------------------------------------------------------------------------
+Running Localization...
+Parsing localization/miscellaneous.string_table.xml
+
+Building Languages
+Exporting .loc files
+
+-------------------------------------------------------------------------------
+Searching for preview icon file C:/Unity3d/ModDarksetDungeon/LightsInShadows/preview_icon.png...FOUND!
+<UploadMode> - Set to direct_upload
+
+
+-------------------------------------------------------------------------------
+Modded files...
+
+monsters/brigand_blood/brigand_blood_A/brigand_blood_A.info.darkest
+monsters/brigand_blood/brigand_blood_B/brigand_blood_B.info.darkest
+monsters/brigand_blood/brigand_blood_C/brigand_blood_C.info.darkest
+monsters/brigand_cutthroat/brigand_cutthroat_A/brigand_cutthroat_A.info.darkest
+monsters/brigand_cutthroat/brigand_cutthroat_B/brigand_cutthroat_B.info.darkest
+monsters/brigand_cutthroat/brigand_cutthroat_C/brigand_cutthroat_C.info.darkest
+monsters/brigand_fusilier/brigand_fusilier_A/brigand_fusilier_A.info.darkest
+monsters/brigand_fusilier/brigand_fusilier_B/brigand_fusilier_B.info.darkest
+monsters/brigand_fusilier/brigand_fusilier_C/brigand_fusilier_C.info.darkest
+monsters/brigand_hunter/brigand_hunter_D/brigand_hunter_D.info.darkest
+monsters/brigand_raider/brigand_raider_D/brigand_raider_D.info.darkest
+monsters/brigand_sapper/brigand_sapper_D/brigand_sapper_D.info.darkest
+monsters/cultist_harpy/cultist_harpy_D/cultist_harpy_D.art.darkest
+monsters/cultist_harpy/cultist_harpy_D/cultist_harpy_D.info.darkest
+monsters/cultist_shrouded/cultist_shrouded_D/cultist_shrouded_D.info.darkest
+monsters/cultist_witch/cultist_witch_A/cultist_witch_A.art.darkest
+monsters/cultist_witch/cultist_witch_A/cultist_witch_A.info.darkest
+monsters/cultist_witch/cultist_witch_B/cultist_witch_B.art.darkest
+monsters/cultist_witch/cultist_witch_B/cultist_witch_B.info.darkest
+monsters/cultist_witch/cultist_witch_C/cultist_witch_C.art.darkest
+monsters/cultist_witch/cultist_witch_C/cultist_witch_C.info.darkest
+monsters/maggot/maggot_A/maggot_A.art.darkest
+monsters/maggot/maggot_A/maggot_A.info.darkest
+monsters/maggot/maggot_B/maggot_B.art.darkest
+monsters/maggot/maggot_B/maggot_B.info.darkest
+monsters/maggot/maggot_C/maggot_C.art.darkest
+monsters/maggot/maggot_C/maggot_C.info.darkest
+monsters/skeleton_arbalist/skeleton_arbalist_A/skeleton_arbalist_A.info.darkest
+monsters/skeleton_arbalist/skeleton_arbalist_B/skeleton_arbalist_B.info.darkest
+monsters/skeleton_arbalist/skeleton_arbalist_C/skeleton_arbalist_C.info.darkest
+monsters/skeleton_bearer/skeleton_bearer_A/skeleton_bearer_A.info.darkest
+monsters/skeleton_bearer/skeleton_bearer_B/skeleton_bearer_B.info.darkest
+monsters/skeleton_bearer/skeleton_bearer_C/skeleton_bearer_C.info.darkest
+monsters/skeleton_common/skeleton_common_A/skeleton_common_A.info.darkest
+monsters/skeleton_common/skeleton_common_B/skeleton_common_B.info.darkest
+monsters/skeleton_common/skeleton_common_C/skeleton_common_C.info.darkest
+monsters/skeleton_courtier/skeleton_courtier_A/skeleton_courtier_A.info.darkest
+monsters/skeleton_courtier/skeleton_courtier_B/skeleton_courtier_B.info.darkest
+monsters/skeleton_courtier/skeleton_courtier_C/skeleton_courtier_C.info.darkest
+monsters/skeleton_militia/skeleton_militia_A/skeleton_militia_A.info.darkest
+monsters/skeleton_militia/skeleton_militia_B/skeleton_militia_B.info.darkest
+monsters/skeleton_militia/skeleton_militia_C/skeleton_militia_C.info.darkest
+monsters/skeleton_spear/skeleton_spear_A/skeleton_spear_A.info.darkest
+monsters/skeleton_spear/skeleton_spear_B/skeleton_spear_B.info.darkest
+monsters/skeleton_spear/skeleton_spear_C/skeleton_spear_C.info.darkest
+monsters/spider_spitter/spider_spitter_A/spider_spitter_A.info.darkest
+monsters/spider_spitter/spider_spitter_B/spider_spitter_B.info.darkest
+monsters/spider_spitter/spider_spitter_C/spider_spitter_C.info.darkest
+monsters/spider_webber/spider_webber_A/spider_webber_A.info.darkest
+monsters/spider_webber/spider_webber_B/spider_webber_B.info.darkest
+monsters/spider_webber/spider_webber_C/spider_webber_C.info.darkest
+heroes/bounty_hunter/bounty_hunter.info.darkest
+heroes/crusader/crusader.info.darkest
+heroes/highwayman/highwayman.info.darkest
+heroes/houndmaster/houndmaster.info.darkest
+heroes/leper/leper.info.darkest
+heroes/plague_doctor/plague_doctor.info.darkest
+heroes/vestal/vestal.info.darkest
+localization/pc/1265900557_brazilian.loc
+localization/pc/1265900557_czech.loc
+localization/pc/1265900557_english.loc
+localization/pc/1265900557_french.loc
+localization/pc/1265900557_german.loc
+localization/pc/1265900557_polish.loc
+localization/pc/1265900557_russian.loc
+localization/pc/1265900557_schinese.loc
+localization/pc/1265900557_spanish.loc
+raid/ai/base.monster_brains.json
+effects/lys.effects.darkest
+localization/1265900557_brazilian.loc
+localization/1265900557_czech.loc
+localization/1265900557_english.loc
+localization/1265900557_french.loc
+localization/1265900557_german.loc
+localization/1265900557_italian.loc
+localization/1265900557_polish.loc
+localization/1265900557_russian.loc
+localization/1265900557_schinese.loc
+localization/1265900557_spanish.loc
+localization/miscellaneous.string_table.xml
+localization/missing_files.txt
+lys.xml
+modfiles.txt
+preview_icon.png
+project.xml
+
+Submitting................................................................................................................................................Submitted.
+Saving project file C:\Unity3d\ModDarksetDungeon\LightsInShadows\lys.xml
+
